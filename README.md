@@ -5,8 +5,8 @@
 
 <div align="center">
     <a href="https://github.com/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=houstonsbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houstonsbarros&layout=compact&langs_count=7&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=houstonsbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houstonsbarros&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
   <a href = "mailto:houstonbarroscontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/houston-barros-b43367211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Cobrinha](https://user-images.githubusercontent.com/107281650/204407207-5b6319b2-ba56-4c63-b770-5c25eb57ae7a.svg#gh-dark-mode-only)
+  ![Cobrinha](https://github.com/houstonsbarros/houstonsbarros/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
