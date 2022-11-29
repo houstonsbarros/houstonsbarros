@@ -18,11 +18,12 @@
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
 </div>
   
-<div>
+<div style:"margin-top: 25px">
   <a href="https://instagram.com/houston_barros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:houstonbarroscontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/houston-barros-b43367211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/houstonsbarros/houstonsbarros/blob/output/github-contribution-grid-snake.svg)
+  ![Cobrinha](https://user-images.githubusercontent.com/107281650/204407207-5b6319b2-ba56-4c63-b770-5c25eb57ae7a.svg)
+
  
 </div>
