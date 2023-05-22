@@ -1,7 +1,5 @@
 ## Oopa, seja bem-vindo(a) 👋
 
-<hr>
-
 - Meu nome é Houston Barros, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFPI - Campus Parnaíba
 - 🌱 Atualmente estou aprendendo Node.JS
   
