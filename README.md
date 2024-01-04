@@ -37,4 +37,3 @@
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Houston Barros GitHub Stats](https://github-readme-stats.vercel.app/api?username=houstonsbarros&show_icons=true&theme=midnight-purple)
-[![GitHub Streak](https://streak-stats.demolab.com?user=houstonsbarros&theme=midnight-purple&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
